@@ -10,3 +10,7 @@ chmod +x install.sh
 install.sh
 
 python3 sara.py
+
+# Support us
+
+Instagram @true.living

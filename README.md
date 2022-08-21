@@ -15,6 +15,10 @@ install.sh
 
 python3 sara.py
 
+# Ransomware 
+
+Tested on devices Andriod 10
+
 # Support us
 
 Instagram @true.living

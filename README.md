@@ -17,6 +17,22 @@ chmod +x install.sh
 
 python3 sara.py
 
+# Dependencies
+
+Java
+ 
+Aapt
+
+Apktool
+
+Zipalign
+
+Imagemagick
+
+Python3
+
+ Pillow
+
 # Ransomware 
 
 Tested on devices Andriod 10
